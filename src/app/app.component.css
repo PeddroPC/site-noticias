@@ -1,0 +1,19 @@
+.small-cards{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+.container-small{
+    display: inline-flex;
+    float: right;
+    box-sizing: border-box;
+
+}
+.container-big{
+    display: inline-flex;
+    margin-top: 50px;
+}
+span{
+    font-size: 25px;
+}

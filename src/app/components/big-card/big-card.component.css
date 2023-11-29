@@ -1,0 +1,21 @@
+.card {
+    background-color: #165379;
+    border: 1px solid black;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 345px;
+    padding: 16px;
+    text-align:justify;
+    display: inline-block;
+}
+
+.big-img{
+    width: 280px;
+
+}
+.div-img{
+    padding: 30px;
+}
+span{
+    font-size: 25px;
+}

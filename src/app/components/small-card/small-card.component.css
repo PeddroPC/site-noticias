@@ -1,0 +1,13 @@
+.card {
+    background-color: #165379;
+    border: 1px solid black;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 400px;
+    padding: 16px;
+    text-align: justify;
+    display: inline-block;
+}
+.container{
+    padding: 20px;
+}
